@@ -1,0 +1,6 @@
+name = "big-homes-webhook"
+main = "index.js"
+compatibility_date = "2024-01-01"
+
+[vars]
+RETELL_API_KEY = "key_006f8e2707bfeb9ef4c1a61d8d00"
