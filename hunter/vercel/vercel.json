@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "api/**/*.js",
+      "use": "@vercel/node"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/api/(.*)",
+      "dest": "/api/$1"
+    }
+  ],
+  "env": {
+    "RETELL_API_KEY": "key_006f8e2707bfeb9ef4c1a61d8d00",
+    "N8N_WEBHOOK_URL": "@n8n_webhook_url"
+  }
+}

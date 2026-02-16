@@ -1,0 +1,21 @@
+[
+  {
+    "business_name": "Pro Plumbing Services",
+    "contact_name": "John",
+    "phone": "(720) 555-0101",
+    "industry": "plumber",
+    "city": "Denver",
+    "call_duration": 180,
+    "outcome": "Answered",
+    "lead_temperature": "HOT",
+    "pain_points": [
+      "missed_calls",
+      "no_online_booking"
+    ],
+    "next_action": "Scheduled Demo",
+    "agent_notes": "Interested in demo. Scheduled for Tuesday 2pm.",
+    "call_id": "call_demo123",
+    "estimated_missed_revenue": 1500,
+    "timestamp": "2026-02-16T18:15:06.538Z"
+  }
+]

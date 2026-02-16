@@ -1,0 +1,1332 @@
+[
+  {
+    "name": "Pro Plumbing Services",
+    "phone": "(720) 555-0101",
+    "has_website": false,
+    "reviews_count": 45,
+    "address": "123 Main St, Denver CO",
+    "industry": "plumbers",
+    "rating": 4,
+    "city": "Denver",
+    "score": 8,
+    "temperature": "HOT",
+    "pain_points": [
+      "no_website",
+      "missing_calls"
+    ],
+    "pitch_angle": "Get found on Google + Never miss a booking"
+  },
+  {
+    "name": "Quick Fix HVAC",
+    "phone": "(303) 555-0102",
+    "has_website": false,
+    "reviews_count": 23,
+    "address": "123 Main St, Denver CO",
+    "industry": "plumbers",
+    "rating": 4,
+    "city": "Denver",
+    "score": 8,
+    "temperature": "HOT",
+    "pain_points": [
+      "no_website",
+      "missing_calls"
+    ],
+    "pitch_angle": "Get found on Google + Never miss a booking"
+  },
+  {
+    "name": "Elite Electric Co",
+    "phone": "(720) 555-0103",
+    "has_website": true,
+    "reviews_count": 67,
+    "address": "123 Main St, Denver CO",
+    "industry": "plumbers",
+    "rating": 4,
+    "city": "Denver",
+    "score": 5,
+    "temperature": "WARM",
+    "pain_points": [
+      "missing_calls",
+      "no_online_booking"
+    ],
+    "pitch_angle": "Never miss a booking + Add online booking"
+  },
+  {
+    "name": "Denver Roofing Pro",
+    "phone": "(303) 555-0104",
+    "has_website": false,
+    "reviews_count": 12,
+    "address": "123 Main St, Denver CO",
+    "industry": "plumbers",
+    "rating": 4,
+    "city": "Denver",
+    "score": 5,
+    "temperature": "WARM",
+    "pain_points": [
+      "no_website"
+    ],
+    "pitch_angle": "Get found on Google"
+  },
+  {
+    "name": "City Handyman Services",
+    "phone": "(720) 555-0105",
+    "has_website": false,
+    "reviews_count": 8,
+    "address": "123 Main St, Denver CO",
+    "industry": "plumbers",
+    "rating": 4,
+    "city": "Denver",
+    "score": 5,
+    "temperature": "WARM",
+    "pain_points": [
+      "no_website"
+    ],
+    "pitch_angle": "Get found on Google"
+  },
+  {
+    "name": "A+ Landscaping",
+    "phone": "(303) 555-0106",
+    "has_website": true,
+    "reviews_count": 34,
+    "address": "123 Main St, Denver CO",
+    "industry": "plumbers",
+    "rating": 4,
+    "city": "Denver",
+    "score": 5,
+    "temperature": "WARM",
+    "pain_points": [
+      "missing_calls",
+      "no_online_booking"
+    ],
+    "pitch_angle": "Never miss a booking + Add online booking"
+  },
+  {
+    "name": "Bob's Painters",
+    "phone": "(720) 555-0107",
+    "has_website": false,
+    "reviews_count": 19,
+    "address": "123 Main St, Denver CO",
+    "industry": "plumbers",
+    "rating": 4,
+    "city": "Denver",
+    "score": 5,
+    "temperature": "WARM",
+    "pain_points": [
+      "no_website"
+    ],
+    "pitch_angle": "Get found on Google"
+  },
+  {
+    "name": "Master Contractors LLC",
+    "phone": "(303) 555-0108",
+    "has_website": false,
+    "reviews_count": 52,
+    "address": "123 Main St, Denver CO",
+    "industry": "plumbers",
+    "rating": 4,
+    "city": "Denver",
+    "score": 8,
+    "temperature": "HOT",
+    "pain_points": [
+      "no_website",
+      "missing_calls"
+    ],
+    "pitch_angle": "Get found on Google + Never miss a booking"
+  },
+  {
+    "name": "Pro Plumbing Services",
+    "phone": "(720) 555-0101",
+    "has_website": false,
+    "reviews_count": 45,
+    "address": "123 Main St, Denver CO",
+    "industry": "hvac",
+    "rating": 4,
+    "city": "Denver",
+    "score": 8,
+    "temperature": "HOT",
+    "pain_points": [
+      "no_website",
+      "missing_calls"
+    ],
+    "pitch_angle": "Get found on Google + Never miss a booking"
+  },
+  {
+    "name": "Quick Fix HVAC",
+    "phone": "(303) 555-0102",
+    "has_website": false,
+    "reviews_count": 23,
+    "address": "123 Main St, Denver CO",
+    "industry": "hvac",
+    "rating": 4,
+    "city": "Denver",
+    "score": 8,
+    "temperature": "HOT",
+    "pain_points": [
+      "no_website",
+      "missing_calls"
+    ],
+    "pitch_angle": "Get found on Google + Never miss a booking"
+  },
+  {
+    "name": "Elite Electric Co",
+    "phone": "(720) 555-0103",
+    "has_website": true,
+    "reviews_count": 67,
+    "address": "123 Main St, Denver CO",
+    "industry": "hvac",
+    "rating": 4,
+    "city": "Denver",
+    "score": 5,
+    "temperature": "WARM",
+    "pain_points": [
+      "missing_calls",
+      "no_online_booking"
+    ],
+    "pitch_angle": "Never miss a booking + Add online booking"
+  },
+  {
+    "name": "Denver Roofing Pro",
+    "phone": "(303) 555-0104",
+    "has_website": false,
+    "reviews_count": 12,
+    "address": "123 Main St, Denver CO",
+    "industry": "hvac",
+    "rating": 4,
+    "city": "Denver",
+    "score": 5,
+    "temperature": "WARM",
+    "pain_points": [
+      "no_website"
+    ],
+    "pitch_angle": "Get found on Google"
+  },
+  {
+    "name": "City Handyman Services",
+    "phone": "(720) 555-0105",
+    "has_website": false,
+    "reviews_count": 8,
+    "address": "123 Main St, Denver CO",
+    "industry": "hvac",
+    "rating": 4,
+    "city": "Denver",
+    "score": 5,
+    "temperature": "WARM",
+    "pain_points": [
+      "no_website"
+    ],
+    "pitch_angle": "Get found on Google"
+  },
+  {
+    "name": "A+ Landscaping",
+    "phone": "(303) 555-0106",
+    "has_website": true,
+    "reviews_count": 34,
+    "address": "123 Main St, Denver CO",
+    "industry": "hvac",
+    "rating": 4,
+    "city": "Denver",
+    "score": 5,
+    "temperature": "WARM",
+    "pain_points": [
+      "missing_calls",
+      "no_online_booking"
+    ],
+    "pitch_angle": "Never miss a booking + Add online booking"
+  },
+  {
+    "name": "Bob's Painters",
+    "phone": "(720) 555-0107",
+    "has_website": false,
+    "reviews_count": 19,
+    "address": "123 Main St, Denver CO",
+    "industry": "hvac",
+    "rating": 4,
+    "city": "Denver",
+    "score": 5,
+    "temperature": "WARM",
+    "pain_points": [
+      "no_website"
+    ],
+    "pitch_angle": "Get found on Google"
+  },
+  {
+    "name": "Master Contractors LLC",
+    "phone": "(303) 555-0108",
+    "has_website": false,
+    "reviews_count": 52,
+    "address": "123 Main St, Denver CO",
+    "industry": "hvac",
+    "rating": 4,
+    "city": "Denver",
+    "score": 8,
+    "temperature": "HOT",
+    "pain_points": [
+      "no_website",
+      "missing_calls"
+    ],
+    "pitch_angle": "Get found on Google + Never miss a booking"
+  },
+  {
+    "name": "Pro Plumbing Services",
+    "phone": "(720) 555-0101",
+    "has_website": false,
+    "reviews_count": 45,
+    "address": "123 Main St, Denver CO",
+    "industry": "plumbers",
+    "rating": 4,
+    "city": "Austin",
+    "score": 8,
+    "temperature": "HOT",
+    "pain_points": [
+      "no_website",
+      "missing_calls"
+    ],
+    "pitch_angle": "Get found on Google + Never miss a booking"
+  },
+  {
+    "name": "Quick Fix HVAC",
+    "phone": "(303) 555-0102",
+    "has_website": false,
+    "reviews_count": 23,
+    "address": "123 Main St, Denver CO",
+    "industry": "plumbers",
+    "rating": 4,
+    "city": "Austin",
+    "score": 8,
+    "temperature": "HOT",
+    "pain_points": [
+      "no_website",
+      "missing_calls"
+    ],
+    "pitch_angle": "Get found on Google + Never miss a booking"
+  },
+  {
+    "name": "Elite Electric Co",
+    "phone": "(720) 555-0103",
+    "has_website": true,
+    "reviews_count": 67,
+    "address": "123 Main St, Denver CO",
+    "industry": "plumbers",
+    "rating": 4,
+    "city": "Austin",
+    "score": 5,
+    "temperature": "WARM",
+    "pain_points": [
+      "missing_calls",
+      "no_online_booking"
+    ],
+    "pitch_angle": "Never miss a booking + Add online booking"
+  },
+  {
+    "name": "Denver Roofing Pro",
+    "phone": "(303) 555-0104",
+    "has_website": false,
+    "reviews_count": 12,
+    "address": "123 Main St, Denver CO",
+    "industry": "plumbers",
+    "rating": 4,
+    "city": "Austin",
+    "score": 5,
+    "temperature": "WARM",
+    "pain_points": [
+      "no_website"
+    ],
+    "pitch_angle": "Get found on Google"
+  },
+  {
+    "name": "City Handyman Services",
+    "phone": "(720) 555-0105",
+    "has_website": false,
+    "reviews_count": 8,
+    "address": "123 Main St, Denver CO",
+    "industry": "plumbers",
+    "rating": 4,
+    "city": "Austin",
+    "score": 5,
+    "temperature": "WARM",
+    "pain_points": [
+      "no_website"
+    ],
+    "pitch_angle": "Get found on Google"
+  },
+  {
+    "name": "A+ Landscaping",
+    "phone": "(303) 555-0106",
+    "has_website": true,
+    "reviews_count": 34,
+    "address": "123 Main St, Denver CO",
+    "industry": "plumbers",
+    "rating": 4,
+    "city": "Austin",
+    "score": 5,
+    "temperature": "WARM",
+    "pain_points": [
+      "missing_calls",
+      "no_online_booking"
+    ],
+    "pitch_angle": "Never miss a booking + Add online booking"
+  },
+  {
+    "name": "Bob's Painters",
+    "phone": "(720) 555-0107",
+    "has_website": false,
+    "reviews_count": 19,
+    "address": "123 Main St, Denver CO",
+    "industry": "plumbers",
+    "rating": 4,
+    "city": "Austin",
+    "score": 5,
+    "temperature": "WARM",
+    "pain_points": [
+      "no_website"
+    ],
+    "pitch_angle": "Get found on Google"
+  },
+  {
+    "name": "Master Contractors LLC",
+    "phone": "(303) 555-0108",
+    "has_website": false,
+    "reviews_count": 52,
+    "address": "123 Main St, Denver CO",
+    "industry": "plumbers",
+    "rating": 4,
+    "city": "Austin",
+    "score": 8,
+    "temperature": "HOT",
+    "pain_points": [
+      "no_website",
+      "missing_calls"
+    ],
+    "pitch_angle": "Get found on Google + Never miss a booking"
+  },
+  {
+    "name": "Pro Plumbing Services",
+    "phone": "(720) 555-0101",
+    "has_website": false,
+    "reviews_count": 45,
+    "address": "123 Main St, Denver CO",
+    "industry": "hvac",
+    "rating": 4,
+    "city": "Austin",
+    "score": 8,
+    "temperature": "HOT",
+    "pain_points": [
+      "no_website",
+      "missing_calls"
+    ],
+    "pitch_angle": "Get found on Google + Never miss a booking"
+  },
+  {
+    "name": "Quick Fix HVAC",
+    "phone": "(303) 555-0102",
+    "has_website": false,
+    "reviews_count": 23,
+    "address": "123 Main St, Denver CO",
+    "industry": "hvac",
+    "rating": 4,
+    "city": "Austin",
+    "score": 8,
+    "temperature": "HOT",
+    "pain_points": [
+      "no_website",
+      "missing_calls"
+    ],
+    "pitch_angle": "Get found on Google + Never miss a booking"
+  },
+  {
+    "name": "Elite Electric Co",
+    "phone": "(720) 555-0103",
+    "has_website": true,
+    "reviews_count": 67,
+    "address": "123 Main St, Denver CO",
+    "industry": "hvac",
+    "rating": 4,
+    "city": "Austin",
+    "score": 5,
+    "temperature": "WARM",
+    "pain_points": [
+      "missing_calls",
+      "no_online_booking"
+    ],
+    "pitch_angle": "Never miss a booking + Add online booking"
+  },
+  {
+    "name": "Denver Roofing Pro",
+    "phone": "(303) 555-0104",
+    "has_website": false,
+    "reviews_count": 12,
+    "address": "123 Main St, Denver CO",
+    "industry": "hvac",
+    "rating": 4,
+    "city": "Austin",
+    "score": 5,
+    "temperature": "WARM",
+    "pain_points": [
+      "no_website"
+    ],
+    "pitch_angle": "Get found on Google"
+  },
+  {
+    "name": "City Handyman Services",
+    "phone": "(720) 555-0105",
+    "has_website": false,
+    "reviews_count": 8,
+    "address": "123 Main St, Denver CO",
+    "industry": "hvac",
+    "rating": 4,
+    "city": "Austin",
+    "score": 5,
+    "temperature": "WARM",
+    "pain_points": [
+      "no_website"
+    ],
+    "pitch_angle": "Get found on Google"
+  },
+  {
+    "name": "A+ Landscaping",
+    "phone": "(303) 555-0106",
+    "has_website": true,
+    "reviews_count": 34,
+    "address": "123 Main St, Denver CO",
+    "industry": "hvac",
+    "rating": 4,
+    "city": "Austin",
+    "score": 5,
+    "temperature": "WARM",
+    "pain_points": [
+      "missing_calls",
+      "no_online_booking"
+    ],
+    "pitch_angle": "Never miss a booking + Add online booking"
+  },
+  {
+    "name": "Bob's Painters",
+    "phone": "(720) 555-0107",
+    "has_website": false,
+    "reviews_count": 19,
+    "address": "123 Main St, Denver CO",
+    "industry": "hvac",
+    "rating": 4,
+    "city": "Austin",
+    "score": 5,
+    "temperature": "WARM",
+    "pain_points": [
+      "no_website"
+    ],
+    "pitch_angle": "Get found on Google"
+  },
+  {
+    "name": "Master Contractors LLC",
+    "phone": "(303) 555-0108",
+    "has_website": false,
+    "reviews_count": 52,
+    "address": "123 Main St, Denver CO",
+    "industry": "hvac",
+    "rating": 4,
+    "city": "Austin",
+    "score": 8,
+    "temperature": "HOT",
+    "pain_points": [
+      "no_website",
+      "missing_calls"
+    ],
+    "pitch_angle": "Get found on Google + Never miss a booking"
+  },
+  {
+    "name": "Pro Plumbing Services",
+    "phone": "(720) 555-0101",
+    "has_website": false,
+    "reviews_count": 45,
+    "address": "123 Main St, Denver CO",
+    "industry": "plumbers",
+    "rating": 4,
+    "city": "Phoenix",
+    "score": 8,
+    "temperature": "HOT",
+    "pain_points": [
+      "no_website",
+      "missing_calls"
+    ],
+    "pitch_angle": "Get found on Google + Never miss a booking"
+  },
+  {
+    "name": "Quick Fix HVAC",
+    "phone": "(303) 555-0102",
+    "has_website": false,
+    "reviews_count": 23,
+    "address": "123 Main St, Denver CO",
+    "industry": "plumbers",
+    "rating": 4,
+    "city": "Phoenix",
+    "score": 8,
+    "temperature": "HOT",
+    "pain_points": [
+      "no_website",
+      "missing_calls"
+    ],
+    "pitch_angle": "Get found on Google + Never miss a booking"
+  },
+  {
+    "name": "Elite Electric Co",
+    "phone": "(720) 555-0103",
+    "has_website": true,
+    "reviews_count": 67,
+    "address": "123 Main St, Denver CO",
+    "industry": "plumbers",
+    "rating": 4,
+    "city": "Phoenix",
+    "score": 5,
+    "temperature": "WARM",
+    "pain_points": [
+      "missing_calls",
+      "no_online_booking"
+    ],
+    "pitch_angle": "Never miss a booking + Add online booking"
+  },
+  {
+    "name": "Denver Roofing Pro",
+    "phone": "(303) 555-0104",
+    "has_website": false,
+    "reviews_count": 12,
+    "address": "123 Main St, Denver CO",
+    "industry": "plumbers",
+    "rating": 4,
+    "city": "Phoenix",
+    "score": 5,
+    "temperature": "WARM",
+    "pain_points": [
+      "no_website"
+    ],
+    "pitch_angle": "Get found on Google"
+  },
+  {
+    "name": "City Handyman Services",
+    "phone": "(720) 555-0105",
+    "has_website": false,
+    "reviews_count": 8,
+    "address": "123 Main St, Denver CO",
+    "industry": "plumbers",
+    "rating": 4,
+    "city": "Phoenix",
+    "score": 5,
+    "temperature": "WARM",
+    "pain_points": [
+      "no_website"
+    ],
+    "pitch_angle": "Get found on Google"
+  },
+  {
+    "name": "A+ Landscaping",
+    "phone": "(303) 555-0106",
+    "has_website": true,
+    "reviews_count": 34,
+    "address": "123 Main St, Denver CO",
+    "industry": "plumbers",
+    "rating": 4,
+    "city": "Phoenix",
+    "score": 5,
+    "temperature": "WARM",
+    "pain_points": [
+      "missing_calls",
+      "no_online_booking"
+    ],
+    "pitch_angle": "Never miss a booking + Add online booking"
+  },
+  {
+    "name": "Bob's Painters",
+    "phone": "(720) 555-0107",
+    "has_website": false,
+    "reviews_count": 19,
+    "address": "123 Main St, Denver CO",
+    "industry": "plumbers",
+    "rating": 4,
+    "city": "Phoenix",
+    "score": 5,
+    "temperature": "WARM",
+    "pain_points": [
+      "no_website"
+    ],
+    "pitch_angle": "Get found on Google"
+  },
+  {
+    "name": "Master Contractors LLC",
+    "phone": "(303) 555-0108",
+    "has_website": false,
+    "reviews_count": 52,
+    "address": "123 Main St, Denver CO",
+    "industry": "plumbers",
+    "rating": 4,
+    "city": "Phoenix",
+    "score": 8,
+    "temperature": "HOT",
+    "pain_points": [
+      "no_website",
+      "missing_calls"
+    ],
+    "pitch_angle": "Get found on Google + Never miss a booking"
+  },
+  {
+    "name": "Pro Plumbing Services",
+    "phone": "(720) 555-0101",
+    "has_website": false,
+    "reviews_count": 45,
+    "address": "123 Main St, Denver CO",
+    "industry": "hvac",
+    "rating": 4,
+    "city": "Phoenix",
+    "score": 8,
+    "temperature": "HOT",
+    "pain_points": [
+      "no_website",
+      "missing_calls"
+    ],
+    "pitch_angle": "Get found on Google + Never miss a booking"
+  },
+  {
+    "name": "Quick Fix HVAC",
+    "phone": "(303) 555-0102",
+    "has_website": false,
+    "reviews_count": 23,
+    "address": "123 Main St, Denver CO",
+    "industry": "hvac",
+    "rating": 4,
+    "city": "Phoenix",
+    "score": 8,
+    "temperature": "HOT",
+    "pain_points": [
+      "no_website",
+      "missing_calls"
+    ],
+    "pitch_angle": "Get found on Google + Never miss a booking"
+  },
+  {
+    "name": "Elite Electric Co",
+    "phone": "(720) 555-0103",
+    "has_website": true,
+    "reviews_count": 67,
+    "address": "123 Main St, Denver CO",
+    "industry": "hvac",
+    "rating": 4,
+    "city": "Phoenix",
+    "score": 5,
+    "temperature": "WARM",
+    "pain_points": [
+      "missing_calls",
+      "no_online_booking"
+    ],
+    "pitch_angle": "Never miss a booking + Add online booking"
+  },
+  {
+    "name": "Denver Roofing Pro",
+    "phone": "(303) 555-0104",
+    "has_website": false,
+    "reviews_count": 12,
+    "address": "123 Main St, Denver CO",
+    "industry": "hvac",
+    "rating": 4,
+    "city": "Phoenix",
+    "score": 5,
+    "temperature": "WARM",
+    "pain_points": [
+      "no_website"
+    ],
+    "pitch_angle": "Get found on Google"
+  },
+  {
+    "name": "City Handyman Services",
+    "phone": "(720) 555-0105",
+    "has_website": false,
+    "reviews_count": 8,
+    "address": "123 Main St, Denver CO",
+    "industry": "hvac",
+    "rating": 4,
+    "city": "Phoenix",
+    "score": 5,
+    "temperature": "WARM",
+    "pain_points": [
+      "no_website"
+    ],
+    "pitch_angle": "Get found on Google"
+  },
+  {
+    "name": "A+ Landscaping",
+    "phone": "(303) 555-0106",
+    "has_website": true,
+    "reviews_count": 34,
+    "address": "123 Main St, Denver CO",
+    "industry": "hvac",
+    "rating": 4,
+    "city": "Phoenix",
+    "score": 5,
+    "temperature": "WARM",
+    "pain_points": [
+      "missing_calls",
+      "no_online_booking"
+    ],
+    "pitch_angle": "Never miss a booking + Add online booking"
+  },
+  {
+    "name": "Bob's Painters",
+    "phone": "(720) 555-0107",
+    "has_website": false,
+    "reviews_count": 19,
+    "address": "123 Main St, Denver CO",
+    "industry": "hvac",
+    "rating": 4,
+    "city": "Phoenix",
+    "score": 5,
+    "temperature": "WARM",
+    "pain_points": [
+      "no_website"
+    ],
+    "pitch_angle": "Get found on Google"
+  },
+  {
+    "name": "Master Contractors LLC",
+    "phone": "(303) 555-0108",
+    "has_website": false,
+    "reviews_count": 52,
+    "address": "123 Main St, Denver CO",
+    "industry": "hvac",
+    "rating": 4,
+    "city": "Phoenix",
+    "score": 8,
+    "temperature": "HOT",
+    "pain_points": [
+      "no_website",
+      "missing_calls"
+    ],
+    "pitch_angle": "Get found on Google + Never miss a booking"
+  },
+  {
+    "name": "Pro Plumbing Services",
+    "phone": "(720) 555-0101",
+    "has_website": false,
+    "reviews_count": 45,
+    "address": "123 Main St, Denver CO",
+    "industry": "plumbers",
+    "rating": 4,
+    "city": "Las Vegas",
+    "score": 8,
+    "temperature": "HOT",
+    "pain_points": [
+      "no_website",
+      "missing_calls"
+    ],
+    "pitch_angle": "Get found on Google + Never miss a booking"
+  },
+  {
+    "name": "Quick Fix HVAC",
+    "phone": "(303) 555-0102",
+    "has_website": false,
+    "reviews_count": 23,
+    "address": "123 Main St, Denver CO",
+    "industry": "plumbers",
+    "rating": 4,
+    "city": "Las Vegas",
+    "score": 8,
+    "temperature": "HOT",
+    "pain_points": [
+      "no_website",
+      "missing_calls"
+    ],
+    "pitch_angle": "Get found on Google + Never miss a booking"
+  },
+  {
+    "name": "Elite Electric Co",
+    "phone": "(720) 555-0103",
+    "has_website": true,
+    "reviews_count": 67,
+    "address": "123 Main St, Denver CO",
+    "industry": "plumbers",
+    "rating": 4,
+    "city": "Las Vegas",
+    "score": 5,
+    "temperature": "WARM",
+    "pain_points": [
+      "missing_calls",
+      "no_online_booking"
+    ],
+    "pitch_angle": "Never miss a booking + Add online booking"
+  },
+  {
+    "name": "Denver Roofing Pro",
+    "phone": "(303) 555-0104",
+    "has_website": false,
+    "reviews_count": 12,
+    "address": "123 Main St, Denver CO",
+    "industry": "plumbers",
+    "rating": 4,
+    "city": "Las Vegas",
+    "score": 5,
+    "temperature": "WARM",
+    "pain_points": [
+      "no_website"
+    ],
+    "pitch_angle": "Get found on Google"
+  },
+  {
+    "name": "City Handyman Services",
+    "phone": "(720) 555-0105",
+    "has_website": false,
+    "reviews_count": 8,
+    "address": "123 Main St, Denver CO",
+    "industry": "plumbers",
+    "rating": 4,
+    "city": "Las Vegas",
+    "score": 5,
+    "temperature": "WARM",
+    "pain_points": [
+      "no_website"
+    ],
+    "pitch_angle": "Get found on Google"
+  },
+  {
+    "name": "A+ Landscaping",
+    "phone": "(303) 555-0106",
+    "has_website": true,
+    "reviews_count": 34,
+    "address": "123 Main St, Denver CO",
+    "industry": "plumbers",
+    "rating": 4,
+    "city": "Las Vegas",
+    "score": 5,
+    "temperature": "WARM",
+    "pain_points": [
+      "missing_calls",
+      "no_online_booking"
+    ],
+    "pitch_angle": "Never miss a booking + Add online booking"
+  },
+  {
+    "name": "Bob's Painters",
+    "phone": "(720) 555-0107",
+    "has_website": false,
+    "reviews_count": 19,
+    "address": "123 Main St, Denver CO",
+    "industry": "plumbers",
+    "rating": 4,
+    "city": "Las Vegas",
+    "score": 5,
+    "temperature": "WARM",
+    "pain_points": [
+      "no_website"
+    ],
+    "pitch_angle": "Get found on Google"
+  },
+  {
+    "name": "Master Contractors LLC",
+    "phone": "(303) 555-0108",
+    "has_website": false,
+    "reviews_count": 52,
+    "address": "123 Main St, Denver CO",
+    "industry": "plumbers",
+    "rating": 4,
+    "city": "Las Vegas",
+    "score": 8,
+    "temperature": "HOT",
+    "pain_points": [
+      "no_website",
+      "missing_calls"
+    ],
+    "pitch_angle": "Get found on Google + Never miss a booking"
+  },
+  {
+    "name": "Pro Plumbing Services",
+    "phone": "(720) 555-0101",
+    "has_website": false,
+    "reviews_count": 45,
+    "address": "123 Main St, Denver CO",
+    "industry": "hvac",
+    "rating": 4,
+    "city": "Las Vegas",
+    "score": 8,
+    "temperature": "HOT",
+    "pain_points": [
+      "no_website",
+      "missing_calls"
+    ],
+    "pitch_angle": "Get found on Google + Never miss a booking"
+  },
+  {
+    "name": "Quick Fix HVAC",
+    "phone": "(303) 555-0102",
+    "has_website": false,
+    "reviews_count": 23,
+    "address": "123 Main St, Denver CO",
+    "industry": "hvac",
+    "rating": 4,
+    "city": "Las Vegas",
+    "score": 8,
+    "temperature": "HOT",
+    "pain_points": [
+      "no_website",
+      "missing_calls"
+    ],
+    "pitch_angle": "Get found on Google + Never miss a booking"
+  },
+  {
+    "name": "Elite Electric Co",
+    "phone": "(720) 555-0103",
+    "has_website": true,
+    "reviews_count": 67,
+    "address": "123 Main St, Denver CO",
+    "industry": "hvac",
+    "rating": 4,
+    "city": "Las Vegas",
+    "score": 5,
+    "temperature": "WARM",
+    "pain_points": [
+      "missing_calls",
+      "no_online_booking"
+    ],
+    "pitch_angle": "Never miss a booking + Add online booking"
+  },
+  {
+    "name": "Denver Roofing Pro",
+    "phone": "(303) 555-0104",
+    "has_website": false,
+    "reviews_count": 12,
+    "address": "123 Main St, Denver CO",
+    "industry": "hvac",
+    "rating": 4,
+    "city": "Las Vegas",
+    "score": 5,
+    "temperature": "WARM",
+    "pain_points": [
+      "no_website"
+    ],
+    "pitch_angle": "Get found on Google"
+  },
+  {
+    "name": "City Handyman Services",
+    "phone": "(720) 555-0105",
+    "has_website": false,
+    "reviews_count": 8,
+    "address": "123 Main St, Denver CO",
+    "industry": "hvac",
+    "rating": 4,
+    "city": "Las Vegas",
+    "score": 5,
+    "temperature": "WARM",
+    "pain_points": [
+      "no_website"
+    ],
+    "pitch_angle": "Get found on Google"
+  },
+  {
+    "name": "A+ Landscaping",
+    "phone": "(303) 555-0106",
+    "has_website": true,
+    "reviews_count": 34,
+    "address": "123 Main St, Denver CO",
+    "industry": "hvac",
+    "rating": 4,
+    "city": "Las Vegas",
+    "score": 5,
+    "temperature": "WARM",
+    "pain_points": [
+      "missing_calls",
+      "no_online_booking"
+    ],
+    "pitch_angle": "Never miss a booking + Add online booking"
+  },
+  {
+    "name": "Bob's Painters",
+    "phone": "(720) 555-0107",
+    "has_website": false,
+    "reviews_count": 19,
+    "address": "123 Main St, Denver CO",
+    "industry": "hvac",
+    "rating": 4,
+    "city": "Las Vegas",
+    "score": 5,
+    "temperature": "WARM",
+    "pain_points": [
+      "no_website"
+    ],
+    "pitch_angle": "Get found on Google"
+  },
+  {
+    "name": "Master Contractors LLC",
+    "phone": "(303) 555-0108",
+    "has_website": false,
+    "reviews_count": 52,
+    "address": "123 Main St, Denver CO",
+    "industry": "hvac",
+    "rating": 4,
+    "city": "Las Vegas",
+    "score": 8,
+    "temperature": "HOT",
+    "pain_points": [
+      "no_website",
+      "missing_calls"
+    ],
+    "pitch_angle": "Get found on Google + Never miss a booking"
+  },
+  {
+    "name": "Pro Plumbing Services",
+    "phone": "(720) 555-0101",
+    "has_website": false,
+    "reviews_count": 45,
+    "address": "123 Main St, Denver CO",
+    "industry": "plumbers",
+    "rating": 4,
+    "city": "Miami",
+    "score": 8,
+    "temperature": "HOT",
+    "pain_points": [
+      "no_website",
+      "missing_calls"
+    ],
+    "pitch_angle": "Get found on Google + Never miss a booking"
+  },
+  {
+    "name": "Quick Fix HVAC",
+    "phone": "(303) 555-0102",
+    "has_website": false,
+    "reviews_count": 23,
+    "address": "123 Main St, Denver CO",
+    "industry": "plumbers",
+    "rating": 4,
+    "city": "Miami",
+    "score": 8,
+    "temperature": "HOT",
+    "pain_points": [
+      "no_website",
+      "missing_calls"
+    ],
+    "pitch_angle": "Get found on Google + Never miss a booking"
+  },
+  {
+    "name": "Elite Electric Co",
+    "phone": "(720) 555-0103",
+    "has_website": true,
+    "reviews_count": 67,
+    "address": "123 Main St, Denver CO",
+    "industry": "plumbers",
+    "rating": 4,
+    "city": "Miami",
+    "score": 5,
+    "temperature": "WARM",
+    "pain_points": [
+      "missing_calls",
+      "no_online_booking"
+    ],
+    "pitch_angle": "Never miss a booking + Add online booking"
+  },
+  {
+    "name": "Denver Roofing Pro",
+    "phone": "(303) 555-0104",
+    "has_website": false,
+    "reviews_count": 12,
+    "address": "123 Main St, Denver CO",
+    "industry": "plumbers",
+    "rating": 4,
+    "city": "Miami",
+    "score": 5,
+    "temperature": "WARM",
+    "pain_points": [
+      "no_website"
+    ],
+    "pitch_angle": "Get found on Google"
+  },
+  {
+    "name": "City Handyman Services",
+    "phone": "(720) 555-0105",
+    "has_website": false,
+    "reviews_count": 8,
+    "address": "123 Main St, Denver CO",
+    "industry": "plumbers",
+    "rating": 4,
+    "city": "Miami",
+    "score": 5,
+    "temperature": "WARM",
+    "pain_points": [
+      "no_website"
+    ],
+    "pitch_angle": "Get found on Google"
+  },
+  {
+    "name": "A+ Landscaping",
+    "phone": "(303) 555-0106",
+    "has_website": true,
+    "reviews_count": 34,
+    "address": "123 Main St, Denver CO",
+    "industry": "plumbers",
+    "rating": 4,
+    "city": "Miami",
+    "score": 5,
+    "temperature": "WARM",
+    "pain_points": [
+      "missing_calls",
+      "no_online_booking"
+    ],
+    "pitch_angle": "Never miss a booking + Add online booking"
+  },
+  {
+    "name": "Bob's Painters",
+    "phone": "(720) 555-0107",
+    "has_website": false,
+    "reviews_count": 19,
+    "address": "123 Main St, Denver CO",
+    "industry": "plumbers",
+    "rating": 4,
+    "city": "Miami",
+    "score": 5,
+    "temperature": "WARM",
+    "pain_points": [
+      "no_website"
+    ],
+    "pitch_angle": "Get found on Google"
+  },
+  {
+    "name": "Master Contractors LLC",
+    "phone": "(303) 555-0108",
+    "has_website": false,
+    "reviews_count": 52,
+    "address": "123 Main St, Denver CO",
+    "industry": "plumbers",
+    "rating": 4,
+    "city": "Miami",
+    "score": 8,
+    "temperature": "HOT",
+    "pain_points": [
+      "no_website",
+      "missing_calls"
+    ],
+    "pitch_angle": "Get found on Google + Never miss a booking"
+  },
+  {
+    "name": "Pro Plumbing Services",
+    "phone": "(720) 555-0101",
+    "has_website": false,
+    "reviews_count": 45,
+    "address": "123 Main St, Denver CO",
+    "industry": "hvac",
+    "rating": 4,
+    "city": "Miami",
+    "score": 8,
+    "temperature": "HOT",
+    "pain_points": [
+      "no_website",
+      "missing_calls"
+    ],
+    "pitch_angle": "Get found on Google + Never miss a booking"
+  },
+  {
+    "name": "Quick Fix HVAC",
+    "phone": "(303) 555-0102",
+    "has_website": false,
+    "reviews_count": 23,
+    "address": "123 Main St, Denver CO",
+    "industry": "hvac",
+    "rating": 4,
+    "city": "Miami",
+    "score": 8,
+    "temperature": "HOT",
+    "pain_points": [
+      "no_website",
+      "missing_calls"
+    ],
+    "pitch_angle": "Get found on Google + Never miss a booking"
+  },
+  {
+    "name": "Elite Electric Co",
+    "phone": "(720) 555-0103",
+    "has_website": true,
+    "reviews_count": 67,
+    "address": "123 Main St, Denver CO",
+    "industry": "hvac",
+    "rating": 4,
+    "city": "Miami",
+    "score": 5,
+    "temperature": "WARM",
+    "pain_points": [
+      "missing_calls",
+      "no_online_booking"
+    ],
+    "pitch_angle": "Never miss a booking + Add online booking"
+  },
+  {
+    "name": "Denver Roofing Pro",
+    "phone": "(303) 555-0104",
+    "has_website": false,
+    "reviews_count": 12,
+    "address": "123 Main St, Denver CO",
+    "industry": "hvac",
+    "rating": 4,
+    "city": "Miami",
+    "score": 5,
+    "temperature": "WARM",
+    "pain_points": [
+      "no_website"
+    ],
+    "pitch_angle": "Get found on Google"
+  },
+  {
+    "name": "City Handyman Services",
+    "phone": "(720) 555-0105",
+    "has_website": false,
+    "reviews_count": 8,
+    "address": "123 Main St, Denver CO",
+    "industry": "hvac",
+    "rating": 4,
+    "city": "Miami",
+    "score": 5,
+    "temperature": "WARM",
+    "pain_points": [
+      "no_website"
+    ],
+    "pitch_angle": "Get found on Google"
+  },
+  {
+    "name": "A+ Landscaping",
+    "phone": "(303) 555-0106",
+    "has_website": true,
+    "reviews_count": 34,
+    "address": "123 Main St, Denver CO",
+    "industry": "hvac",
+    "rating": 4,
+    "city": "Miami",
+    "score": 5,
+    "temperature": "WARM",
+    "pain_points": [
+      "missing_calls",
+      "no_online_booking"
+    ],
+    "pitch_angle": "Never miss a booking + Add online booking"
+  },
+  {
+    "name": "Bob's Painters",
+    "phone": "(720) 555-0107",
+    "has_website": false,
+    "reviews_count": 19,
+    "address": "123 Main St, Denver CO",
+    "industry": "hvac",
+    "rating": 4,
+    "city": "Miami",
+    "score": 5,
+    "temperature": "WARM",
+    "pain_points": [
+      "no_website"
+    ],
+    "pitch_angle": "Get found on Google"
+  },
+  {
+    "name": "Master Contractors LLC",
+    "phone": "(303) 555-0108",
+    "has_website": false,
+    "reviews_count": 52,
+    "address": "123 Main St, Denver CO",
+    "industry": "hvac",
+    "rating": 4,
+    "city": "Miami",
+    "score": 8,
+    "temperature": "HOT",
+    "pain_points": [
+      "no_website",
+      "missing_calls"
+    ],
+    "pitch_angle": "Get found on Google + Never miss a booking"
+  }
+]

@@ -1,0 +1,100 @@
+id: hunter-scout
+name: Hunter - Lead Scout
+version: 1
+description: Find service businesses without websites in target cities
+
+polling:
+  model: openrouter/minimax/minimax-m2.5
+  timeoutSeconds: 120
+
+agents:
+  - id: scout
+    name: Lead Scout
+    role: research
+    description: Scrapes directories to find businesses without websites
+    workspace:
+      baseDir: agents/scout
+
+  - id: analyzer
+    name: Lead Analyzer
+    role: analysis
+    description: Analyzes and scores leads
+    workspace:
+      baseDir: agents/analyzer
+
+steps:
+  - id: scout
+    agent: scout
+    input: |
+      Find service businesses without websites in target area.
+
+      TARGET: {{task}}
+
+      Example: "Plumbers in Denver Colorado"
+
+      Search methods:
+      1. Google Maps / Google Business listings
+      2. Yelp, YellowPages, Thumbtack
+      3. Angi, HomeAdvisor
+      4. Local business directories
+
+      For each business, collect:
+      - Business name
+      - Phone number
+      - Address
+      - Industry/Category
+      - Number of reviews (if any)
+      - Has website (yes/no)
+      - Is 24/7 (yes/no)
+      - Multiple locations (yes/no)
+
+      OUTPUT:
+      STATUS: done
+      LEADS_JSON: [{
+        "name": "...",
+        "phone": "...",
+        "address": "...",
+        "industry": "plumber",
+        "has_website": false,
+        "reviews_count": 15,
+        "is_24_7": false,
+        "multiple_locations": false
+      }]
+
+  - id: analyze
+    agent: analyzer
+    input: |
+      Score and categorize leads.
+
+      LEADS: (from scout)
+
+      Score each lead:
+
+      🔥 HOT (Score 8-10):
+      - No website AND (24/7 OR multiple locations OR 20+ reviews)
+      
+      🌡️ WARM (Score 5-7):
+      - Has website but outdated (no booking, old design)
+      - OR 10-20 reviews with recent activity
+      
+      ❄️ COLD (Score 1-4):
+      - Has basic website
+      - No automation/booking
+
+      Pain points to identify:
+      - "Missing calls" - no answering service
+      - "No online booking" - can't book online
+      - "Outdated website" - old design, no mobile
+      - "No reviews" - not collecting reviews
+      - "No automation" - manual scheduling
+
+      OUTPUT:
+      STATUS: done
+      SCORED_LEADS_JSON: [{
+        "name": "...",
+        "phone": "...",
+        "temperature": "HOT|WARM|COLD",
+        "score": 8,
+        "pain_points": ["no_website", "no_online_booking"],
+        "pitch_angle": "Get found on Google + AI receptionist"
+      }]
