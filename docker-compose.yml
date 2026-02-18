@@ -1,0 +1,117 @@
+version: '3.8'
+
+# Big Homes Swarm - Docker Compose
+# Resources: 3 OCPU + 24GB total (Oracle Free Tier)
+
+services:
+  # Commander - Orchestration & Monitoring
+  commander:
+    image: openclaw/openclaw:latest
+    container_name: big-homes-commander
+    environment:
+      - OPENCLAW_API_KEY=${OPENCLAW_API_KEY}
+      - AGENT_TYPE=commander
+    volumes:
+      - ./data:/data
+      - ~/.openclaw:/root/.openclaw
+    deploy:
+      resources:
+        limits:
+          cpus: '0.5'
+          memory: 4G
+    command: openclaw run --autonomous --duration 8h --task "orchestrate_swarm"
+    restart: unless-stopped
+
+  # Hunter - Google Maps scraping
+  hunter:
+    image: openclaw/openclaw:latest
+    container_name: big-homes-hunter
+    environment:
+      - OPENCLAW_API_KEY=${OPENCLAW_API_KEY}
+      - AGENT_TYPE=hunter
+    volumes:
+      - ./data:/data
+      - ~/.openclaw:/root/.openclaw
+    deploy:
+      resources:
+        limits:
+          cpus: '1'
+          memory: 6G
+    command: openclaw run --autonomous --duration 8h --task "scrape_google_maps"
+    restart: unless-stopped
+    depends_on:
+      - commander
+
+  # Voice - Retell API calls
+  voice:
+    image: openclaw/openclaw:latest
+    container_name: big-homes-voice
+    environment:
+      - OPENCLAW_API_KEY=${OPENCLAW_API_KEY}
+      - AGENT_TYPE=voice
+      - RETELL_API_KEY=key_006f8e2707bfeb9ef4c1a61d8d00
+    volumes:
+      - ./data:/data
+      - ~/.openclaw:/root/.openclaw
+    deploy:
+      resources:
+        limits:
+          cpus: '1'
+          memory: 6G
+    command: openclaw run --autonomous --duration 8h --task "make_retell_calls"
+    restart: unless-stopped
+    depends_on:
+      - hunter
+
+  # Validator - Data cleaning
+  validator:
+    image: openclaw/openclaw:latest
+    container_name: big-homes-validator
+    environment:
+      - OPENCLAW_API_KEY=${OPENCLAW_API_KEY}
+      - AGENT_TYPE=validator
+    volumes:
+      - ./data:/data
+      - ~/.openclaw:/root/.openclaw
+    deploy:
+      resources:
+        limits:
+          cpus: '0.5'
+          memory: 4G
+    command: openclaw run --autonomous --duration 8h --task "validate_leads"
+    restart: unless-stopped
+    depends_on:
+      - hunter
+
+  # Follow-up - Email automation
+  followup:
+    image: openclaw/openclaw:latest
+    container_name: big-homes-followup
+    environment:
+      - OPENCLAW_API_KEY=${OPENCLAW_API_KEY}
+      - AGENT_TYPE=followup
+    volumes:
+      - ./data:/data
+      - ~/.openclaw:/root/.openclaw
+    deploy:
+      resources:
+        limits:
+          cpus: '0.5'
+          memory: 4G
+    command: openclaw run --autonomous --duration 8h --task "send_followup_emails"
+    restart: unless-stopped
+    depends_on:
+      - validator
+
+networks:
+  default:
+    name: big-homes-network
+
+# Resource Summary
+# Commander: 0.5 CPU + 4GB
+# Hunter:    1 CPU + 6GB
+# Voice:    1 CPU + 6GB
+# Validator: 0.5 CPU + 4GB
+# Followup:  0.5 CPU + 4GB
+# ────────────────────────
+# TOTAL:     3 CPU + 24GB ✓
